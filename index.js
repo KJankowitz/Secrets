@@ -1,5 +1,3 @@
-
-
 //The password is ILoveProgramming
 import express from "express";
 import {dirname} from "path";
