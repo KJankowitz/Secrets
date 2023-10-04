@@ -1,4 +1,4 @@
-//To see how the final website should work, run "node solution.js".
+
 
 //The password is ILoveProgramming
 import express from "express";
